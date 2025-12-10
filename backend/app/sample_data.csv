@@ -1,0 +1,14 @@
+
+---
+
+# **4️⃣ sample_data.csv**
+Create a small CSV in `backend/app/`:
+
+```csv
+game_id,team,score,opponent_score,event_type,possession_id
+1,Lakers,0,0,tip,1
+1,Lakers,2,0,shot_made,2
+1,Lakers,2,2,shot_made,3
+1,Lakers,4,2,shot_made,4
+1,Lakers,4,4,shot_made,5
+1,Lakers,6,4,shot_made,6
